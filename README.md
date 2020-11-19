@@ -10,9 +10,20 @@ As for our EDA portion, we ran descriptive statistics on this dataset and found 
 
 #### Feature Selection: SBS and Random Forest Selection
 
+SBS:
+
+
+The second portion of our feature selection process consisted of implementing a Random Forest selection to select the best features given a certain threshold. To do this, we imported the dataset with the header_list set equal to columns. We then applied a RandomForestRegressor to our data with an 80-20 train-test split. Printing out the features and their corresponding importance led us to choose a threshold of 0.03 to output the 12 most important features. The feature "SpMax_B(m)" has, by far, the highest importance of 0.27. With the RF Selection applied to our dataset, we find that the following 12 features are the most important and therefore will be most beneficial in our model: ['spMax_B(m)', 'SpMax_L', 'SpPosA_B(p)', 'Psi_i_A', 'Mi', 'F02[C-N]', 'SM6_B(m)', 'SdssC', 'nN', 'SpMax_A', 'SdO', 'J_Dz(e)']
+
+
+
 #### Feature Extraction: LDA and PCA
 
+
+
 #### Model Building
+
+
 
 #### Evaluation
 
