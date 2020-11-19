@@ -30,3 +30,4 @@ For our LDA implementation, we first created a header_list to apply to the datas
 #### Websites/Works used in code
 http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/
 https://datascience.stackexchange.com/questions/15135/train-test-validation-set-splitting-in-sklearn
+https://stackabuse.com/implementing-lda-in-python-with-scikit-learn/
