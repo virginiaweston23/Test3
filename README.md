@@ -33,7 +33,7 @@ We used various metrics, including accuracy, precision, recall, F1 score, and co
 ![PCA](/figs/PCA_eval.png)
 ![LDA](/figs/LDA_eval.png)
 
-Overall, we think that the pipeline using StandardScaler, MinMaxScaler, PCA and then SVM is the best choice. It has the best accuracy and few false positives and false negatives as seen in the confusion matrix. Moreover, the testing accuracy is higher than the cross validation result, meaning that the generalization error is low.
+Overall, we think that the pipeline using StandardScaler, MinMaxScaler, PCA and then SVM is the best choice. It has the best accuracy and few false positives and false negatives as seen in the confusion matrix. Moreover, the testing accuracy is higher than the cross validation result, meaning that the generalization error is low. Thus, we believe that we are not overfitting the models, so L1 or L2 regularization techniques are not necessary.
 
 #### Websites/Works used in code
 http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/
