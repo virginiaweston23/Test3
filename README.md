@@ -17,7 +17,7 @@ The second portion of our feature selection process consisted of implementing a 
 
 
 
-#### Feature Extraction: LDA (See [this file](LDA.ipynb))
+#### Feature Extraction: LDA (See [this notebook](LDA.ipynb))
 
 
 
