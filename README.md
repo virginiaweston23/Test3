@@ -2,7 +2,8 @@
 
 ### Authors: Tina Jin, Virginia Weston
 
-#### Data Cleaning and EDA:
+#### Data Cleaning and EDA
+
 
 #### Feature Selection: SBS and Random Forest Selection
 
