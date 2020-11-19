@@ -28,4 +28,5 @@ The second portion of our feature selection process consisted of implementing a 
 #### Evaluation (Also in [this notebook](SVM_Evaluation.ipynb))
 
 #### Websites/Works used in code
+http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/
 https://datascience.stackexchange.com/questions/15135/train-test-validation-set-splitting-in-sklearn
