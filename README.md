@@ -25,6 +25,7 @@ For our LDA implementation, we first created a header_list to apply to the datas
 
 
 #### Evaluation (Also in [this notebook](SVM_Evaluation.ipynb))
+![RF](/figs/RF_eval.png)
 
 #### Websites/Works used in code
 http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/
