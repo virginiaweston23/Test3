@@ -12,3 +12,6 @@
 #### Model Building
 
 #### Evaluation
+
+#### Websites/Works used in code
+https://datascience.stackexchange.com/questions/15135/train-test-validation-set-splitting-in-sklearn
